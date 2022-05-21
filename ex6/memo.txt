@@ -1,0 +1,1 @@
+Note: No code in this chapter. This was just a discussion of C syntax.
