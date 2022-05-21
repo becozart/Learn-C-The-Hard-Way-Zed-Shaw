@@ -1,0 +1,1 @@
+Note: No code in ex5. This was a discussion of memorization and C operators.
